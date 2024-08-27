@@ -1,10 +1,10 @@
 #root {
 
-  margin: 0 auto;
-  /* padding: 2rem; */
-  text-align: center;
+   margin: 0 auto; 
+  padding: 2rem; 
+  text-align: center; 
+  width: 300px;
 }
-
 .logo {
   height: 6em;
   padding: 1.5em;

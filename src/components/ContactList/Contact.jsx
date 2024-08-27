@@ -6,7 +6,7 @@ const handleDeleteChange=()=>{
 onDelete(id);
    }
    return<>
-   <div className={css.container}>
+   <div >
       <p><IoMdContact/> {name}</p>
       <p><FaPhoneAlt/> {number}</p>
       <button type="button" onClick={handleDeleteChange}>Delete</button>

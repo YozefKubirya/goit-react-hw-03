@@ -4,8 +4,11 @@ margin: 5px;
 padding: 0;
 }
 .container{
-   display:flex;
-   justify-content: space-between;
+  align-items: center;
+   display:inline-flex;
+   gap: 20px;
+   justify-content: center;
+  padding: 15px;
    background-color: #EADDCA;
    padding-top: 10px;
   padding-left: 10px;
@@ -13,5 +16,5 @@ padding: 0;
   padding-bottom: 10px;
   border: 2px dashed #DAA06D;
   border-radius: 15px;
-  gap: 15px;
+ 
 }
